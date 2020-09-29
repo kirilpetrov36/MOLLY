@@ -1,0 +1,21 @@
+{
+    "name": "molly",
+    "displayName": "MOLLY",
+    "description": "Color theme for writting conspects",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MOLLY",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MOLLY-color-theme.json"
+            }
+        ]
+    }
+}
